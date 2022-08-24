@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T14:32:19 ICT" name="APISuite" finished-at="2022-08-24T14:32:26 ICT" duration-ms="6358">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T14:32:19 ICT" name="AllTest" finished-at="2022-08-24T14:32:26 ICT" duration-ms="6358">
+      <class name="com.juaracoding.restassured.TestCRUD">
+        <test-method signature="testPost()[pri:0, instance:com.juaracoding.restassured.TestCRUD@73ee04c8]" started-at="2022-08-24T14:32:19 ICT" name="testPost" finished-at="2022-08-24T14:32:22 ICT" duration-ms="2811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- com.juaracoding.restassured.TestCRUD -->
+      <class name="com.juaracoding.restassured.TestGet">
+        <test-method signature="testId()[pri:0, instance:com.juaracoding.restassured.TestGet@41e1e210]" started-at="2022-08-24T14:32:22 ICT" name="testId" finished-at="2022-08-24T14:32:24 ICT" duration-ms="1960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testId -->
+        <test-method signature="testStatusCode()[pri:0, instance:com.juaracoding.restassured.TestGet@41e1e210]" started-at="2022-08-24T14:32:24 ICT" name="testStatusCode" finished-at="2022-08-24T14:32:26 ICT" duration-ms="1556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+      </class> <!-- com.juaracoding.restassured.TestGet -->
+    </test> <!-- AllTest -->
+  </suite> <!-- APISuite -->
+</testng-results>
