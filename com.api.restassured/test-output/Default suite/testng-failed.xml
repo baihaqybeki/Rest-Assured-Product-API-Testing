@@ -5,7 +5,7 @@
     <classes>
       <class name="com.juaracoding.restassured.TestCRUD">
         <methods>
-          <include name="testPut"/>
+          <include name="testDelete"/>
         </methods>
       </class> <!-- com.juaracoding.restassured.TestCRUD -->
     </classes>
